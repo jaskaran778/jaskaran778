@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaskaran778
+- 👋 Hi, I’m Jaskaran Singh
 - 👀 I’m interested in Coding and Anime / Manga
 - 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on Full Stack Projects 
