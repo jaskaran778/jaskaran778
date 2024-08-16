@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaskaran Singh
 - 👀 I’m interested in Coding and Anime / Manga
-- 🌱 I’m currently learning Nextjs
+- 🌱 I’m currently learning Nextjs / React-Native
 - 💞️ I’m looking to collaborate on Full Stack Projects 
 - 📫 How to reach me : DM @jaskaran.774 on ig 
 
